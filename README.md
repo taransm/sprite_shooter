@@ -1,7 +1,7 @@
 # sprite_shooter
 :warning: Watch the video (File name: video.mp4)
 ## Description:
-I have built a challenge-based Augmented Reality shooting game using ARKit and written in Swift. I added 2D/3D elements to the live view from the device’s camera, making those elements appear to inhabit the real world. The gameplay is simple, just look around you and shoot every enemy!
+I have built a challenge-based Augmented Reality shooting game using ARKit and written in Swift. I added 2D/3D elements to the live view from the device’s camera, making those elements appear to inhabit the real world. The gameplay is simple, just look around you and shoot!
 
 The score is stored using <strong> Firebase </strong>. This allows users to compete against their highest score. With this app you can convert any environment like park, library, restaurant (the limit is your imagination!) into a real world game.
 ## Design & Implementation: 
