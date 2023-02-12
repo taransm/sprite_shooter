@@ -10,6 +10,4 @@ I used ARKit to combine device motion tracking, camera scene capture, advanced s
 :bulb:IMP: Make sure that .plist files are updated, I have deleted the content for security reasons
 
 :bulb:IMP: How to setup firebase: https://firebase.google.com/docs/ios/setup 
-![IMG_1061](https://user-images.githubusercontent.com/67748452/218292679-b4b40245-e115-4a3f-8d10-afce4bc813ea.PNG)
-![IMG_1062](https://user-images.githubusercontent.com/67748452/218292681-1611350d-8fe1-4ac0-81cd-1f77bbcc7186.PNG)
-![IMG_1063](https://user-images.githubusercontent.com/67748452/218292683-83e7128b-8274-423c-b474-c50d0e5c9d14.PNG)
+
